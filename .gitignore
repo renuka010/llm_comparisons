@@ -1,6 +1,6 @@
 venv/
 .env
-data/
+/data/
 reports/
 docs/
 src/__pycache__/
@@ -8,5 +8,7 @@ src/models/__pycache__/
 src/chat/__pycache__/
 src/evals/__pycache__/
 src/ui/__pycache__/
+src/data/__pycache__/
+src/scripts/__pycache__/
 .agents/
 .cursor/
