@@ -1,0 +1,12 @@
+venv/
+.env
+data/
+reports/
+docs/
+src/__pycache__/
+src/models/__pycache__/
+src/chat/__pycache__/
+src/evals/__pycache__/
+src/ui/__pycache__/
+.agents/
+.cursor/
